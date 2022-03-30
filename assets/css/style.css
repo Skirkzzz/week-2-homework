@@ -36,8 +36,8 @@ body {
     /* Sans Serif font stack is implemented to help select the best font for each type of computer operating system */
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     /* set body font size to 1.75rem, which is 1.75x more than the font-size of 10px, making it 17.5px  */
-    font-size: 1.75rem;
-    line-height: 1.5;
+    font-size: 2.5rem;
+    line-height: 1.8;
     background-color: var(--primary);
     border: solid;
 }
@@ -111,13 +111,18 @@ footer {
 }
 
 .class-1 {
-    border: solid 1px --dark;
+    border: solid 2px --dark;
     display: flex;
+    margin-left: 20vp;
+    padding-left: 20vp;
 }
 
 .class-2 {
-    border: solid;
+    /* border: solid; */
     display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 100vw;
 }
 
 .class-3 {
@@ -141,7 +146,7 @@ button {
 .column1of2 {
     clear: left;
     width: 50%;
-    margin: 10px;
+    margin: 10vp;
     text-align: left;
     flex-wrap: wrap;
     color: --light
@@ -152,20 +157,33 @@ button {
     clear: left;
     width: 50%;
     margin: 10px;
-    text-align: left;
+    text-align: center;
     color: --light;
 }
 
+.project-card {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
 .right-column {
-    float: right;
-    flex-wrap: wrap;
-    flex-direction: after;
+    /* float: right; */
+    /* flex-wrap: wrap; */
+    /* flex-direction: after; */
+    width: 50%;
     color: var(--secondary);
 }
 
 .left-column {
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
+    width: 50%;
     color: var(--secondary);
+}
+
+.img-profile {
+    width: 300px;
+    height: auto;
 }
 
 @media screen and (min-width: 992px) {
