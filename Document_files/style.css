@@ -117,6 +117,7 @@ footer {
 
 .class-2 {
     border: solid;
+    display: flex;
 }
 
 .class-3 {
@@ -171,7 +172,4 @@ button {
     header {
         width: 75%;
     }
-}
-
-
 }
