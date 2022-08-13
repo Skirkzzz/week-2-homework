@@ -8,7 +8,7 @@ The web page is asimple portfolio built with HTML and CSS. It is responsive for 
 
 I have linked to three current portfolios the rest I have left blank and intend to add links in future.
 
-![Simple Portfolio Page!](/assets/img/Portfolio 1 Portfolio Website.png)
+![Simple Portfolio Page!](./assets/img/Portfolio1PortfolioWebsite.png)
 
 ## Links To Repository
 
