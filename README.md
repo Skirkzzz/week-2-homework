@@ -6,9 +6,26 @@ This code uses HTML and CSS to generate a portfolio webpage.
 
 The web page is asimple portfolio built with HTML and CSS. It is responsive for different size screens using media query.
 
-I have linked to three current portfolios the rest I have left blank and intend to add links in future.
+##Portfolio
+![Simple Portfolio Page!](/assets/img/Portfolio1PortfolioWebsite.png)
 
-![Simple Portfolio Page!](./assets/img/Portfolio1PortfolioWebsite.png)
+##Real World News
+![Simple Portfolio Page!](/assets/img/Portfolio2RealWorldNews.png)
+
+##Coding Quiz
+
+![Simple Portfolio Page!](/assets/img/portfoli3HighScores.png)
+
+##Work Day Scheduler
+
+![Simple Portfolio Page!](/assets/img/4WorkDayScheduler.png)
+
+##Weathermap with API Repository
+
+![Simple Portfolio Page!](/assets/img/5WeatherMap.png)
+
+##GIST
+![Simple Portfolio Page!](/assets/img/6RegexPortfolio.png)
 
 ## Links To Repository
 
